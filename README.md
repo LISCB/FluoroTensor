@@ -34,6 +34,6 @@ pip install protobuf==3.20.0
 
 Then try running FluoroTensor again.
 
-The uer guide can be found at https://www.spliceselect.org/research/
+The user guide can be found at https://www.spliceselect.org/research/
 
 
