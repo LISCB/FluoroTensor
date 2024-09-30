@@ -1,4 +1,4 @@
-To use FluoroTensor, create a fresh python 3.8 (or 3.9) virtual environment in an IDE of your choice. We recommend PyCharm.
+To use FluoroTensor, create a fresh python 3.8.10 virtual environment in an IDE of your choice. We recommend PyCharm.
 Download the zipped folder containing FluoroTensor assets, unzip the folder, and copy the files from 'FluoroTensor Project Version 6.6.8 Release' into the folder of the python project created in the IDE.
 
 Run the following commands in the project terminal in the IDE to install the correct versions of the required packages:
@@ -21,7 +21,7 @@ pip install tifffile==2023.9.26
 
 pip install opencv-python==4.8.1.78
 
-pip install tensorflow==2.7.1
+pip install tensorflow==2.8.1
 
 pip install pillow==9.5.0
 
